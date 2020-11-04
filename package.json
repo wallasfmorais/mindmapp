@@ -58,7 +58,7 @@
     "mmp": "0.2.18",
     "ngx-color-picker": "^9.0.0",
     "opencollective-postinstall": "^2.0.2",
-    "rxjs": "~6.5.4",
+    "rxjs": "~6.6.3",
     "tslib": "^2.0.0",
     "zone.js": "^0.10.3"
   },
